@@ -28,7 +28,7 @@ Clean blog is a full featured, responsive Hexo theme. [Demo here](http://www.cod
 ## Installation
 
 ```
-$ git clone https://github.com/klugjo/hexo-theme-clean-blog.git themes/clean-blog
+$ git clone https://github.com/neilning-xc/hexo-theme-clean-blog.git themes/clean-blog
 ```
 
 Then update your blog's main `_config.yml` to set the theme to `clean-blog`:
@@ -52,7 +52,7 @@ menu:
   Home: /
   Archives: /archives
   Github:
-    url: https://github.com/klugjo/hexo-theme-clean-blog
+    url: https://github.com/neilning-xc/hexo-theme-clean-blog
     icon: github
 ```
 
@@ -134,7 +134,7 @@ Setup the links to your social pages in the theme's `_config.yml`. Links are in 
 # Social Accounts
 twitter_url:
 facebook_url:
-github_url: https://github.com/klugjo/hexo-theme-clean-blog
+github_url: https://github.com/neilning-xc/hexo-theme-clean-blog
 linkedin_url:
 mailto:
 ```
