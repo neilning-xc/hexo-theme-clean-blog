@@ -1,5 +1,7 @@
 # Clean Blog Hexo
 
+**This repository fork from [Clean Blog](http://blackrockdigital.github.io/startbootstrap-clean-blog/index.html), but improve table style.**
+
 ![](http://www.codeblocq.com/img/hexo-theme-thumbnail/CleanBlog.png)
 
 Hexo implementation of [Clean Blog](http://blackrockdigital.github.io/startbootstrap-clean-blog/index.html)
